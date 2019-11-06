@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/teste-profite/static/css/main.627383bd.chunk.css",
+    "main.js": "/teste-profite/static/js/main.ef7b8373.chunk.js",
+    "main.js.map": "/teste-profite/static/js/main.ef7b8373.chunk.js.map",
+    "runtime-main.js": "/teste-profite/static/js/runtime-main.c242aca5.js",
+    "runtime-main.js.map": "/teste-profite/static/js/runtime-main.c242aca5.js.map",
+    "static/js/2.f48c3936.chunk.js": "/teste-profite/static/js/2.f48c3936.chunk.js",
+    "static/js/2.f48c3936.chunk.js.map": "/teste-profite/static/js/2.f48c3936.chunk.js.map",
+    "index.html": "/teste-profite/index.html",
+    "precache-manifest.ebbdd41b9c63c74219522bb0cf0abaae.js": "/teste-profite/precache-manifest.ebbdd41b9c63c74219522bb0cf0abaae.js",
+    "service-worker.js": "/teste-profite/service-worker.js",
+    "static/css/main.627383bd.chunk.css.map": "/teste-profite/static/css/main.627383bd.chunk.css.map",
+    "static/media/Layer4.png": "/teste-profite/static/media/Layer4.4f85cfd5.png",
+    "static/media/ipanema-beach-99388_1280.jpg": "/teste-profite/static/media/ipanema-beach-99388_1280.8bde822b.jpg",
+    "static/media/jaguar-2894706_1280.jpg": "/teste-profite/static/media/jaguar-2894706_1280.55cabf73.jpg",
+    "static/media/johnatan.jpg": "/teste-profite/static/media/johnatan.acfc4fef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c242aca5.js",
+    "static/js/2.f48c3936.chunk.js",
+    "static/css/main.627383bd.chunk.css",
+    "static/js/main.ef7b8373.chunk.js"
+  ]
+}
